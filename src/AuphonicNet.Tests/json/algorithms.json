@@ -1,0 +1,8 @@
+﻿{
+    "denoise": true,
+    "denoiseamount": 12,
+    "hipfilter": true,
+    "leveler": true,
+    "loudnesstarget": 34,
+    "normloudness": true
+}

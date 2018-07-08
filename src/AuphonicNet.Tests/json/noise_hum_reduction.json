@@ -1,0 +1,8 @@
+﻿{
+    "dehum": false,
+    "denoise": false,
+    "start": "start",
+    "start_sec": 0,
+    "stop": "stop",
+    "stop_sec": 0
+}

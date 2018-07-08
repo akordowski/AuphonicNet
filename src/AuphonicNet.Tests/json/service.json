@@ -1,0 +1,20 @@
+﻿{
+    "base_url": "base_url",
+    "bucket": "bucket",
+    "canned_acl": "canned_acl",
+    "display_name": "display_name",
+    "email": "email",
+    "host": "host",
+    "incoming": true,
+    "key_prefix": "key_prefix",
+    "libsyn_directory": "libsyn_directory",
+    "libsyn_show_slug": "libsyn_show_slug",
+    "outgoing": true,
+    "path": "path",
+    "permissions": "permissions",
+    "port": "port",
+    "program_keyword": "program_keyword",
+    "type": "type",
+    "url": "url",
+    "uuid": "uuid"
+}

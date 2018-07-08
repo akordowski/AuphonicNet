@@ -1,0 +1,17 @@
+﻿{
+    "album": "album",
+    "append_chapters": true,
+    "artist": "artist",
+    "genre": "genre",
+    "license": "license",
+    "license_url": "license url",
+    "location": {},
+    "publisher": "publisher",
+    "subtitle": "subtitle",
+    "summary": "summary",
+    "tags": [],
+    "title": "title",
+    "track": "track",
+    "url": "url",
+    "year": "year"
+}

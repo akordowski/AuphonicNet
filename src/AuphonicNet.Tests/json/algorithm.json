@@ -1,0 +1,8 @@
+﻿{
+    "belongs_to": "belongs_to",
+    "default_value": "default_value",
+    "description": "description",
+    "display_name": "display_name",
+    "options": [],
+    "type": "type"
+}

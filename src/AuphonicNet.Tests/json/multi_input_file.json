@@ -1,0 +1,13 @@
+﻿{
+    "algorithms": {},
+    "id": "id",
+    "input_bitrate": 320,
+    "input_channels": 2,
+    "input_file": "input file",
+    "input_filetype": "input filetype",
+    "input_length": 123,
+    "input_samplerate": 44100,
+    "offset": 1.23,
+    "service": "service",
+    "type": "type"
+}

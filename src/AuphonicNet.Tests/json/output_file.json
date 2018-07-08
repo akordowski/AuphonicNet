@@ -1,0 +1,14 @@
+﻿{
+    "bitrate": 320,
+    "checksum": "checksum",
+    "download_url": "download url",
+    "ending": "ending",
+    "filename": "filename",
+    "format": "format",
+    "mono_mixdown": true,
+    "outgoing_services": [],
+    "size": 1024,
+    "size_string": "1024 kB",
+    "split_on_chapters": true,
+    "suffix": "suffix"
+}

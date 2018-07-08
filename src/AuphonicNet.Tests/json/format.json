@@ -1,0 +1,7 @@
+﻿{
+    "bitrate": 320,
+    "channels": 2,
+    "format": "mp3",
+    "length_sec": 123.45,
+    "samplerate":  44100
+}

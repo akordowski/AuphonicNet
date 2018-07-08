@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>AuphonicNet</id>
+    <title>AuphonicNet</title>
+    <authors>Artur Kordowski</authors>
+    <owners>Artur Kordowski</owners>
+    <licenseUrl>https://github.com/akordowski/AuphonicNet/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/akordowski/AuphonicNet</projectUrl>
+    <description>A .NET Library for the Auphonic API</description>
+    <summary>A .NET Library for the Auphonic API</summary>
+    <copyright>Copyright (c) Artur Kordowski</copyright>
+    <tags>auphonic audio podcast</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="11.0.2" />
+      <dependency id="RestSharp" version="106.3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="**/*/AuphonicNet.dll" target="lib" />
+    <file src="**/*/AuphonicNet.pdb" target="lib" />
+    <file src="**/*/AuphonicNet.xml" target="lib" />
+  </files>
+</package>

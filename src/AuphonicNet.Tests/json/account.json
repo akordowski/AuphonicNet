@@ -1,0 +1,16 @@
+﻿{
+    "credits": 12.34,
+    "date_joined": "2018-01-01T00:01:23.000Z",
+    "email": "email",
+    "error_email": true,
+    "low_credits_email": true,
+    "low_credits_threshold": 1.23,
+    "notification_email": true,
+    "onetime_credits": 2.34,
+    "recharge_date": "2018-02-02T00:12:34.000Z",
+    "recharge_recurring_credits": 3.45,
+    "recurring_credits": 4.56,
+    "user_id": "user_id",
+    "username": "username",
+    "warning_email": true
+}

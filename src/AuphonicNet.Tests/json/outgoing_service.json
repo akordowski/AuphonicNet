@@ -1,0 +1,21 @@
+﻿{
+    "base_url": "base_url",
+    "category": "category",
+    "display_name": "display_name",
+    "downloadable": true,
+    "email": "email",
+    "error_message": "error_message",
+    "host": "host",
+    "incomming": true,
+    "outgoing": true,
+    "path": "path",
+    "port": 21,
+    "privacy": "privacy",
+    "result_page": "result_page",
+    "result_urls": [],
+    "sharing": "sharing",
+    "track_type": "track_type",
+    "transfer_success": true,
+    "type": "type",
+    "uuid": "uuid"
+}

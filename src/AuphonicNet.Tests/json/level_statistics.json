@@ -1,0 +1,13 @@
+﻿{
+    "gain_max": [],
+    "gain_mean": [],
+    "gain_min": [],
+    "loudness": [],
+    "lra": [],
+    "max_momentary": [],
+    "max_shortterm": [],
+    "noise_level": [],
+    "peak": [],
+    "signal_level": [],
+    "snr": []
+}
